@@ -1,0 +1,13 @@
+[00:11:05]: [Join Announcement]   郑咸鱼。
+[00:22:11]: [Death Announcement]   郑咸鱼。 已被击杀，击杀者是 蜘蛛. 她变成了一个幽灵！
+[00:22:13]: [Resurrect Announcement]   郑咸鱼。 已被复活，复活人是 篝火.
+[00:40:24]: [Join Announcement] White
+[00:41:03]: [Say] (KU_uGVY9eiS) White: 我小地图还在啊
+[00:41:21]: [Say] (KU_3RvV9CCb)   郑咸鱼。: QT
+[00:41:27]: [Say] (KU_3RvV9CCb)   郑咸鱼。: ni de
+[00:42:18]: [Leave Announcement]   郑咸鱼。
+[00:44:18]: [Leave Announcement] White
+[00:45:52]: [Join Announcement] White
+[00:45:55]: [Death Announcement] White 已被击杀，击杀者是 恶作剧. 她变成了一个幽灵！
+[00:46:19]: [Leave Announcement] White
+[00:48:36]: [Join Announcement]   郑咸鱼。
