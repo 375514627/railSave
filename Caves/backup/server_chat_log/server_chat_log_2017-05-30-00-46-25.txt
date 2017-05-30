@@ -1,0 +1,12 @@
+[00:01:39]: [Join Announcement] White
+[00:01:58]: [Join Announcement] 没错我就是小仙女
+[00:51:17]: [Vote Announcement] rollback passed
+[00:52:05]: [Vote Announcement] rollback passed
+[02:04:02]: [Vote Announcement] rollback passed
+[02:13:24]: [Leave Announcement] White
+[02:29:30]: [Leave Announcement] 没错我就是小仙女
+[03:36:26]: [Join Announcement] White
+[03:37:22]: [Join Announcement] 没错我就是小仙女
+[03:49:47]: [Skin Announcement] White body_tshirt_grey_battleship
+[04:00:19]: [Leave Announcement] White
+[04:00:19]: [Leave Announcement] 没错我就是小仙女

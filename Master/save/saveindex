@@ -9,9 +9,9 @@ KLEI     1 return {
         game_mode="survival",
         intention="cooperative",
         max_players=6,
-        name="White的世界",
+        name="white world",
         online_mode=true,
-        password="",
+        password="1245",
         privacy_type=0,
         pvp=false 
       },

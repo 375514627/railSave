@@ -1,14 +1,14 @@
 [00:00:00]: 
 System Memory:
-	Memory Load: 21%
-	Available Physical Memory: 12782m/16322m
-	Available Page File: 12151m/17346m
+	Memory Load: 26%
+	Available Physical Memory: 12061m/16322m
+	Available Page File: 10653m/17346m
 	Available Virtual Memory: 3989m/4095m
 	Available Extended Virtual Memory: 0m
 [00:00:00]: 
 Process Memory:
 	Peak Working Set Size: 11m
-	Working Set Size: 10m
+	Working Set Size: 11m
 	Quota Peak Page Pool Usage: 200k
 	Quota Page Pool Usage: 197k
 	Quota Peak Non Paged Pool Usage:15k
@@ -18,28 +18,28 @@ Process Memory:
 [00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogetherRail/railSave/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 214171
-[00:00:00]: Current time: Tue May 30 15:52:29 2017
+[00:00:00]: Current time: Mon May 29 17:04:23 2017
 
 [00:00:00]: Don't Starve Together: 214171 WIN32
 [00:00:00]: Build Date: 2047
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -shard Master -cluster railSave --rail_platform_type=1 --rail_app_type=2 --rail_channel_id=1600061708 
+[00:00:00]: Command Line Arguments: -shard Master -cluster railSave --rail_platform_type=1 --rail_app_type=2 --rail_channel_id=1600043704 
 [00:00:00]: Initializing distribution platform
 [00:00:00]: [Rail] Initializing Rail (2000004)
 [00:00:00]: [Rail] Rail SDK version 1.8.2.0
 [00:00:00]: ....Done
 [00:00:00]: Fixing DPI
 [00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (12436)
+[00:00:00]: THREAD - started 'GAClient' (16712)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:3.66
+[00:00:00]: ProfileIndex:3.30
 [00:00:00]: [Connect] PendingConnection::Reset(true)
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Authorized application D:\Game\rail_apps\
 [00:00:00]: WindowsFirewall - Application already authorized
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogetherRail/railSave/blocklist.txt (Failure)
-[00:00:00]: THREAD - started 'ConsoleInput' (15632)
+[00:00:00]: THREAD - started 'ConsoleInput' (17516)
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogetherRail/railSave/adminlist.txt (Failure)
 [00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogetherRail/railSave/whitelist.txt (Failure)
 [00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogetherRail/railSave/cluster_token.txt
@@ -78,12 +78,12 @@ Process Memory:
 [00:00:00]: DoLuaFile scripts/main.lua
 [00:00:00]: DoLuaFile loading buffer scripts/main.lua
 [00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/simplifiedchinese.po	
-[00:00:02]: running main.lua
+[00:00:01]: running main.lua
 	
-[00:00:02]: loaded modindex	
-[00:00:02]: WARNING: icon paths for mod workshop-100010006 (定期清理) are not valid. Got icon_atlas="images/modicon.xml" and icon="modicon.tex".
+[00:00:01]: loaded modindex	
+[00:00:01]: WARNING: icon paths for mod workshop-100010006 (定期清理) are not valid. Got icon_atlas="images/modicon.xml" and icon="modicon.tex".
 Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
-[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
 	
 [00:00:02]: DownloadMods(0)
 [00:00:02]: modoverrides.lua enabling workshop-100010027	
@@ -1136,85 +1136,85 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:00:02]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
 [00:00:02]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
 [00:00:02]: modimport: ../mods/workshop-2199027653598511264/libs/use.lua	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010002	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010007	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010023	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010024	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010026	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010027	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010034	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010039	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010059	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010062	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511264	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598513601	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010002	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010007	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010023	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010024	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010026	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010027	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010034	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010039	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010059	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010062	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511264	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598513601	
-[00:00:03]: Mod: workshop-100010059 (Extra Equip Slots)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010059 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010059 (Extra Equip Slots)	Loading modmain.lua	
-[00:00:03]: Mod: workshop-100010058 (食物属性标签)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010058 (食物属性标签)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010058 (食物属性标签)	Loading modmain.lua	
-[00:00:03]: Mod: workshop-100010062 (Health Info)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010062 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010062 (Health Info)	Loading modmain.lua	
-[00:00:03]: modimport: ../mods/workshop-100010062/black_white_lists.lua	
-[00:00:03]: Mod: workshop-2199027653598513601 (阻止草变异)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-2199027653598513601 (阻止草变异)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-2199027653598513601 (阻止草变异)	Loading modmain.lua	
-[00:00:03]: Mod: workshop-100010039 (超级墙DST)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010039 (超级墙DST)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010039 (超级墙DST)	Loading modmain.lua	
-[00:00:03]: modimport: ../mods/workshop-100010039/wallsets.lua	
-[00:00:03]: Mod: workshop-100010024 (储藏室（地窖）)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010024 (储藏室（地窖）)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010024 (储藏室（地窖）)	Loading modmain.lua	
-[00:00:03]: Mod: workshop-100010027 (Wormhole Marks)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010027 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010027 (Wormhole Marks)	Loading modmain.lua	
-[00:00:03]: Mod: workshop-100010034 (Tools Are Fuels)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010034 (Tools Are Fuels)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010034 (Tools Are Fuels)	Loading modmain.lua	
-[00:00:03]: Mod: workshop-100010007 (Faster Hand)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010007 (Faster Hand)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010007 (Faster Hand)	Loading modmain.lua	
-[00:00:03]: modimport: ../mods/workshop-100010007/scripts/zg_fasthand.lua	
-[00:00:03]: modimport: ../mods/workshop-100010007/scripts/zg_fasthand_client.lua	
-[00:00:03]: Mod: workshop-100010002 (Damage Indicators)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010002 (Damage Indicators)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010002 (Damage Indicators)	Loading modmain.lua	
-[00:00:03]: Mod: workshop-100010026 (Ice Fling Range Check)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010026 (Ice Fling Range Check)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010026 (Ice Fling Range Check)	Loading modmain.lua	
-[00:00:03]: Mod: workshop-100010023 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-100010023 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-100010023 (Global Positions)	Loading modmain.lua	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010002	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010007	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010023	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010024	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010026	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010027	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010034	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010039	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010059	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010062	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511264	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598513601	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010002	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010007	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010023	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010024	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010026	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010027	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010034	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010039	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010059	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010062	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511264	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598513601	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010002	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010007	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010023	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010024	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010026	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010027	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010034	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010039	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010059	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010062	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511264	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598513601	
+[00:00:02]: Mod: workshop-100010059 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010059 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010059 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010058 (食物属性标签)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010058 (食物属性标签)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010058 (食物属性标签)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010062 (Health Info)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010062 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010062 (Health Info)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-100010062/black_white_lists.lua	
+[00:00:02]: Mod: workshop-2199027653598513601 (阻止草变异)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2199027653598513601 (阻止草变异)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2199027653598513601 (阻止草变异)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010039 (超级墙DST)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010039 (超级墙DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010039 (超级墙DST)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-100010039/wallsets.lua	
+[00:00:02]: Mod: workshop-100010024 (储藏室（地窖）)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010024 (储藏室（地窖）)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010024 (储藏室（地窖）)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010027 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010027 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010027 (Wormhole Marks)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010034 (Tools Are Fuels)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010034 (Tools Are Fuels)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010034 (Tools Are Fuels)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010007 (Faster Hand)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010007 (Faster Hand)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010007 (Faster Hand)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-100010007/scripts/zg_fasthand.lua	
+[00:00:02]: modimport: ../mods/workshop-100010007/scripts/zg_fasthand_client.lua	
+[00:00:02]: Mod: workshop-100010002 (Damage Indicators)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010002 (Damage Indicators)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010002 (Damage Indicators)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010026 (Ice Fling Range Check)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010026 (Ice Fling Range Check)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010026 (Ice Fling Range Check)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-100010023 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-100010023 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-100010023 (Global Positions)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010002	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010007	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010023	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010024	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010026	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010027	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010034	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010039	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010059	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010062	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511264	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598513601	
 [00:00:03]: FMOD Error: An invalid object handle was used. 
 [00:00:03]: AppData writable: True.
 [00:00:03]: Documents writable: True.
@@ -1329,152 +1329,152 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_eggs2	
 [00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_crackeds2	
 [00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_eggs3	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_eggs3	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_crackeds3	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_egg8	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg8	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_cracked8	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/ghosthound	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    ghosthound	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/ghosthound2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    ghosthound2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/shadowmusha	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    shadowmusha	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/cristal	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    cristal	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/forcefieldfxx	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    forcefieldfxx	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/lightning2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    lightning2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/lightning_blue	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    lightning_blue	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/glowdust	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    glowdust	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    wormlight_light	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/exp	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    exp	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/tent_musha	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    tent_musha	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    tent_musha_placer	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_egg_arong	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_arong	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_cracked_arong	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/arong	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    arong	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/arom	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    arom	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/arong_baby	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    arong_baby	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/moontree	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moontree	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moontree_placer	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/moonnutdrake	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moonnutdrake	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/moonnutdrake2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moonnutdrake2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/moonbush	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moonbush	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/moonlight_plant	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moonlight_plant	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_egg_random	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_random	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_random_cracked	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/forge_musha	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    forge_musha	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    forge_musha_placer	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/mushasword4	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    mushasword4	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_spores	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_spore	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_spores2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_spore2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_spores_fire	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_spore_fire	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/pirateback	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    pirateback	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_hut	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_hut	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_hut_placer	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_hut_shadow	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/assasin_wilson	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    assasin_wilson	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_oven	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_oven	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_oven_placer	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_ovenfire	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_ovenfire	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_ovenfire_cold	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_ovenfire_cold	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_treasure2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_treasure2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_hidden_egg	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_hidden_egg	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/green_apple_plant	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    green_apple_plant	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/green_fruit	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    green_fruit	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    green_fruit_cooked	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/greenworm	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    greenworm	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/tunacan	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    tunacan	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/bowm	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    bowm	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/bowm_projectile	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    bowm_projectile	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/arrowm	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    arrowm	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    dummy_arrow0	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    dummy_arrow1	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    dummy_arrow2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/poisonbubble2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    poisonbubble2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    poisonbubble_short2	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/debuff	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    debuff	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    debuff_short	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    debuff_frozen	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    debuff_bloodlp	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    debuff_blood	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/phoenixspear	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    phoenixspear	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/hat_mwildcat	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	    hat_mwildcat	
-[00:00:06]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_eggs3	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_crackeds3	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_egg8	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg8	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_cracked8	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/ghosthound	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    ghosthound	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/ghosthound2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    ghosthound2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/shadowmusha	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    shadowmusha	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/cristal	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    cristal	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/forcefieldfxx	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    forcefieldfxx	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/lightning2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    lightning2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/lightning_blue	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    lightning_blue	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/glowdust	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    glowdust	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    wormlight_light	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/exp	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    exp	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/tent_musha	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    tent_musha	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    tent_musha_placer	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_egg_arong	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_arong	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_cracked_arong	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/arong	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    arong	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/arom	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    arom	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/arong_baby	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    arong_baby	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/moontree	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moontree	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moontree_placer	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/moonnutdrake	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moonnutdrake	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/moonnutdrake2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moonnutdrake2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/moonbush	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moonbush	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/moonlight_plant	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    moonlight_plant	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_egg_random	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_random	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_egg_random_cracked	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/forge_musha	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    forge_musha	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    forge_musha_placer	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/mushasword4	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    mushasword4	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_spores	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_spore	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_spores2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_spore2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_spores_fire	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_spore_fire	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/pirateback	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    pirateback	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_hut	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_hut	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_hut_placer	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_hut_shadow	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/assasin_wilson	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    assasin_wilson	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_oven	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_oven	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_oven_placer	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_ovenfire	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_ovenfire	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_ovenfire_cold	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_ovenfire_cold	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_treasure2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_treasure2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_hidden_egg	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_hidden_egg	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/green_apple_plant	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    green_apple_plant	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/green_fruit	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    green_fruit	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    green_fruit_cooked	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/greenworm	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    greenworm	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/tunacan	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    tunacan	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/bowm	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    bowm	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/bowm_projectile	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    bowm_projectile	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/arrowm	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    arrowm	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    dummy_arrow0	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    dummy_arrow1	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    dummy_arrow2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/poisonbubble2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    poisonbubble2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    poisonbubble_short2	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/debuff	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    debuff	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    debuff_short	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    debuff_frozen	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    debuff_bloodlp	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    debuff_blood	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/phoenixspear	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    phoenixspear	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/hat_mwildcat	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	    hat_mwildcat	
+[00:00:05]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering default mod prefab	
 [00:00:06]: FMOD Error: An invalid object handle was used. 
-[00:00:07]: Mod: workshop-100010059 (Extra Equip Slots)	Registering prefabs	
-[00:00:07]: Mod: workshop-100010059 (Extra Equip Slots)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-100010058 (食物属性标签)	Registering prefabs	
-[00:00:07]: Mod: workshop-100010058 (食物属性标签)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-100010062 (Health Info)	Registering prefabs	
-[00:00:07]: Mod: workshop-100010062 (Health Info)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-2199027653598513601 (阻止草变异)	Registering prefabs	
-[00:00:07]: Mod: workshop-2199027653598513601 (阻止草变异)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	Registering prefabs	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	  Registering prefab file: prefabs/superwall	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wallbuilderitemchild	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wallbuilderitem	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wallbuilderitem_placersquare	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wallbuilderitem_placer	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_moonrock	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_moonrock_item	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_moonrock_item_placer	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_limestone	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_limestone_item	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_limestone_item_placer	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_ruin	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_ruin_item	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_ruin_item_placer	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_stone	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_stone_item	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_stone_item_placer	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_hay	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_hay_item	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_hay_item_placer	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_wood	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_wood_item	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_wood_item_placer	
-[00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_door_moonrock	
+[00:00:06]: Mod: workshop-100010059 (Extra Equip Slots)	Registering prefabs	
+[00:00:06]: Mod: workshop-100010059 (Extra Equip Slots)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-100010058 (食物属性标签)	Registering prefabs	
+[00:00:06]: Mod: workshop-100010058 (食物属性标签)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-100010062 (Health Info)	Registering prefabs	
+[00:00:06]: Mod: workshop-100010062 (Health Info)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2199027653598513601 (阻止草变异)	Registering prefabs	
+[00:00:06]: Mod: workshop-2199027653598513601 (阻止草变异)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	Registering prefabs	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	  Registering prefab file: prefabs/superwall	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wallbuilderitemchild	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wallbuilderitem	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wallbuilderitem_placersquare	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wallbuilderitem_placer	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_moonrock	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_moonrock_item	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_moonrock_item_placer	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_limestone	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_limestone_item	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_limestone_item_placer	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_ruin	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_ruin_item	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_ruin_item_placer	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_stone	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_stone_item	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_stone_item_placer	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_hay	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_hay_item	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_hay_item_placer	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_wood	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_wood_item	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_wall_wood_item_placer	
+[00:00:06]: Mod: workshop-100010039 (超级墙DST)	    dyc_door_moonrock	
 [00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_door_moonrock_item	
 [00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_door_moonrock_item_placer	
 [00:00:07]: Mod: workshop-100010039 (超级墙DST)	    dyc_door_limestone	
@@ -1591,13 +1591,13 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:00:08]: unloading prefabs for mod MOD_workshop-100010026	
 [00:00:08]: unloading prefabs for mod MOD_workshop-100010023	
 [00:00:08]: Collecting garbage...
-[00:00:08]: lua_gc took 0.03 seconds
+[00:00:08]: lua_gc took 0.02 seconds
 [00:00:08]: ~ShardLuaProxy()
 [00:00:08]: ~ItemServerLuaProxy()
 [00:00:08]: ~InventoryLuaProxy()
 [00:00:08]: ~NetworkLuaProxy()
 [00:00:08]: ~SimLuaProxy()
-[00:00:08]: lua_close took 0.04 seconds
+[00:00:08]: lua_close took 0.03 seconds
 [00:00:08]: ReleaseAll
 [00:00:08]: ReleaseAll Finished
 [00:00:08]: cGame::StartPlaying
@@ -2685,105 +2685,105 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010039	
 [00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
 [00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010059	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010062	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511264	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598513601	
-[00:00:10]: Mod: workshop-100010059 (Extra Equip Slots)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010059 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010059 (Extra Equip Slots)	Loading modmain.lua	
-[00:00:10]: Mod: workshop-100010058 (食物属性标签)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010058 (食物属性标签)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010058 (食物属性标签)	Loading modmain.lua	
-[00:00:10]: Mod: workshop-100010062 (Health Info)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010062 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010062 (Health Info)	Loading modmain.lua	
-[00:00:10]: modimport: ../mods/workshop-100010062/black_white_lists.lua	
-[00:00:10]: Mod: workshop-2199027653598513601 (阻止草变异)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-2199027653598513601 (阻止草变异)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-2199027653598513601 (阻止草变异)	Loading modmain.lua	
-[00:00:10]: Mod: workshop-100010039 (超级墙DST)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010039 (超级墙DST)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010039 (超级墙DST)	Loading modmain.lua	
-[00:00:10]: modimport: ../mods/workshop-100010039/wallsets.lua	
-[00:00:10]: Mod: workshop-100010024 (储藏室（地窖）)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010024 (储藏室（地窖）)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010024 (储藏室（地窖）)	Loading modmain.lua	
-[00:00:10]: Mod: workshop-100010027 (Wormhole Marks)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010027 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010027 (Wormhole Marks)	Loading modmain.lua	
-[00:00:10]: Mod: workshop-100010034 (Tools Are Fuels)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010034 (Tools Are Fuels)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010034 (Tools Are Fuels)	Loading modmain.lua	
-[00:00:10]: Mod: workshop-100010007 (Faster Hand)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010007 (Faster Hand)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010007 (Faster Hand)	Loading modmain.lua	
-[00:00:10]: modimport: ../mods/workshop-100010007/scripts/zg_fasthand.lua	
-[00:00:10]: modimport: ../mods/workshop-100010007/scripts/zg_fasthand_client.lua	
-[00:00:10]: Mod: workshop-100010002 (Damage Indicators)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010002 (Damage Indicators)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010002 (Damage Indicators)	Loading modmain.lua	
-[00:00:10]: Mod: workshop-100010026 (Ice Fling Range Check)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010026 (Ice Fling Range Check)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010026 (Ice Fling Range Check)	Loading modmain.lua	
-[00:00:10]: Mod: workshop-100010023 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:10]: Mod: workshop-100010023 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:10]: Mod: workshop-100010023 (Global Positions)	Loading modmain.lua	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010002	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010007	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010023	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010024	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010026	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010027	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010034	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010039	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010059	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010062	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511264	
-[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598513601	
-[00:00:10]: LOADING LUA SUCCESS
-[00:00:10]: Registering mod namespace "workshop-100010023"
-[00:00:10]: Registering mod namespace "food item"
-[00:00:10]: Registering mod namespace "musha"
-[00:00:10]: Registering mod namespace "workshop-100010039"
-[00:00:10]: PlayerDeaths could not load morgue	
-[00:00:10]: PlayerHistory could not load player_history	
-[00:00:10]: bloom_enabled	false	
-[00:00:10]: loaded saveindex	
-[00:00:10]: OnFilesLoaded()	
-[00:00:10]: OnUpdatePurchaseStateComplete	
-[00:00:10]: 	Unload FE	
-[00:00:10]: 	Unload FE done	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	Registering prefabs	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/mushasword_frost	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    mushasword_frost	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/mushasword_base	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    mushasword_base	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/mushasword	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    mushasword	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/frosthammer	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    frosthammer	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/tentacle_frost	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    tentacle_frost	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/tentacle_shadow	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    tentacle_shadow	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/broken_frosthammer	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    broken_frosthammer	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/armor_mushaa	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    armor_mushaa	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/armor_mushab	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    armor_mushab	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/hat_mprincess	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    hat_mprincess	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/hat_mbunny	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    hat_mbunny	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/hat_mphoenix	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    hat_mphoenix	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_flute	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_flute	
-[00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_small	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010062	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511264	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598513601	
+[00:00:09]: Mod: workshop-100010059 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010059 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010059 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-100010058 (食物属性标签)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010058 (食物属性标签)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010058 (食物属性标签)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-100010062 (Health Info)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010062 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010062 (Health Info)	Loading modmain.lua	
+[00:00:09]: modimport: ../mods/workshop-100010062/black_white_lists.lua	
+[00:00:09]: Mod: workshop-2199027653598513601 (阻止草变异)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-2199027653598513601 (阻止草变异)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-2199027653598513601 (阻止草变异)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-100010039 (超级墙DST)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010039 (超级墙DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010039 (超级墙DST)	Loading modmain.lua	
+[00:00:09]: modimport: ../mods/workshop-100010039/wallsets.lua	
+[00:00:09]: Mod: workshop-100010024 (储藏室（地窖）)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010024 (储藏室（地窖）)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010024 (储藏室（地窖）)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-100010027 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010027 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010027 (Wormhole Marks)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-100010034 (Tools Are Fuels)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010034 (Tools Are Fuels)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010034 (Tools Are Fuels)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-100010007 (Faster Hand)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010007 (Faster Hand)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010007 (Faster Hand)	Loading modmain.lua	
+[00:00:09]: modimport: ../mods/workshop-100010007/scripts/zg_fasthand.lua	
+[00:00:09]: modimport: ../mods/workshop-100010007/scripts/zg_fasthand_client.lua	
+[00:00:09]: Mod: workshop-100010002 (Damage Indicators)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010002 (Damage Indicators)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010002 (Damage Indicators)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-100010026 (Ice Fling Range Check)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010026 (Ice Fling Range Check)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010026 (Ice Fling Range Check)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-100010023 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-100010023 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-100010023 (Global Positions)	Loading modmain.lua	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010002	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010007	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010023	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010024	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010026	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010027	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010034	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010039	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010058	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010059	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-100010062	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598511264	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2199027653598513601	
+[00:00:09]: LOADING LUA SUCCESS
+[00:00:09]: Registering mod namespace "workshop-100010023"
+[00:00:09]: Registering mod namespace "food item"
+[00:00:09]: Registering mod namespace "musha"
+[00:00:09]: Registering mod namespace "workshop-100010039"
+[00:00:09]: PlayerDeaths could not load morgue	
+[00:00:09]: PlayerHistory could not load player_history	
+[00:00:09]: bloom_enabled	false	
+[00:00:09]: loaded saveindex	
+[00:00:09]: OnFilesLoaded()	
+[00:00:09]: OnUpdatePurchaseStateComplete	
+[00:00:09]: 	Unload FE	
+[00:00:09]: 	Unload FE done	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	Registering prefabs	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/mushasword_frost	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    mushasword_frost	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/mushasword_base	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    mushasword_base	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/mushasword	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    mushasword	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/frosthammer	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    frosthammer	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/tentacle_frost	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    tentacle_frost	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/tentacle_shadow	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    tentacle_shadow	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/broken_frosthammer	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    broken_frosthammer	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/armor_mushaa	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    armor_mushaa	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/armor_mushab	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    armor_mushab	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/hat_mprincess	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    hat_mprincess	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/hat_mbunny	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    hat_mbunny	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/hat_mphoenix	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    hat_mphoenix	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_flute	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_flute	
+[00:00:10]: Mod: workshop-2199027653598511264 ([DST]Musha)	  Registering prefab file: prefabs/musha_small	
 [00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_small	
 [00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_teen	
 [00:00:11]: Mod: workshop-2199027653598511264 ([DST]Musha)	    musha_teenr1	
@@ -3060,10 +3060,10 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:00:12]: Mod: workshop-100010023 (Global Positions)	    globalmapicon_noproxy	
 [00:00:12]: Mod: workshop-100010023 (Global Positions)	  Registering default mod prefab	
 [00:00:12]: 	LOAD BE	
-[00:00:14]: 	LOAD BE: done	
-[00:00:14]: Loading world: session/1114628FBE949C4A/0000000121	
-[00:00:14]: Save file is at version 4.76	
-[00:00:14]: Begin Session: 1114628FBE949C4A
+[00:00:13]: 	LOAD BE: done	
+[00:00:13]: Loading world: session/1114628FBE949C4A/0000000069	
+[00:00:13]: Save file is at version 4.76	
+[00:00:13]: Begin Session: 1114628FBE949C4A
 [00:00:14]: saving to server_temp/server_save	
 [00:00:14]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
 [00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-2199027653598511264/images/inventoryimages/hat_mwildcat.xml )
@@ -3149,54 +3149,56 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-100010023/minimap/ping_explore.xml )
 [00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-100010023/minimap/ping_danger.xml )
 [00:00:14]: MiniMapComponent::AddAtlas( ../mods/workshop-100010023/minimap/ping_omw.xml )
-[00:00:15]: Loading Nav Grid	
-[00:00:15]: setting 	summerlength	15	
-[00:00:15]: setting 	isnightmaredawn	false	
-[00:00:15]: setting 	elapseddaysinseason	5	
-[00:00:15]: setting 	isfullmoon	false	
-[00:00:15]: setting 	moisture	904.83026123047	
-[00:00:15]: setting 	springlength	20	
-[00:00:15]: setting 	isnightmarewild	false	
-[00:00:15]: setting 	moonphase	full	
-[00:00:15]: setting 	precipitationrate	0.40041161456636	
-[00:00:15]: setting 	iswet	true	
-[00:00:15]: setting 	isnewmoon	false	
-[00:00:15]: setting 	iswinter	false	
-[00:00:15]: setting 	israining	true	
-[00:00:15]: setting 	isnightmarewarn	false	
-[00:00:15]: setting 	precipitation	rain	
-[00:00:15]: setting 	cavephase	day	
-[00:00:15]: setting 	moistureceil	4397.1264648438	
-[00:00:15]: setting 	isday	true	
-[00:00:15]: setting 	iscaveday	true	
-[00:00:15]: setting 	season	spring	
-[00:00:15]: setting 	timeinphase	0.0064874267578126	
-[00:00:15]: setting 	temperature	15.442502603567	
-[00:00:15]: setting 	isnightmarecalm	false	
-[00:00:15]: setting 	isnight	false	
-[00:00:15]: setting 	isdusk	false	
-[00:00:15]: setting 	iscavedusk	false	
-[00:00:15]: setting 	isautumn	false	
-[00:00:15]: setting 	issnowing	false	
-[00:00:15]: setting 	iswaxingmoon	false	
-[00:00:15]: setting 	pop	1	
-[00:00:15]: setting 	snowlevel	0	
-[00:00:15]: setting 	issnowcovered	false	
-[00:00:15]: setting 	autumnlength	20	
-[00:00:15]: setting 	phase	day	
-[00:00:15]: setting 	nightmaretime	0	
-[00:00:15]: setting 	winterlength	15	
-[00:00:15]: setting 	isspring	true	
-[00:00:15]: setting 	nightmarephase	none	
-[00:00:15]: setting 	remainingdaysinseason	15	
-[00:00:15]: setting 	cycles	110	
-[00:00:15]: setting 	iscavenight	false	
-[00:00:15]: setting 	nightmaretimeinphase	0	
-[00:00:15]: setting 	wetness	100	
-[00:00:15]: setting 	time	0.0020273208618164	
-[00:00:15]: setting 	issummer	false	
-[00:00:15]: OVERRIDE: setting	disease_delay	to	none	
-[00:00:15]: OVERRIDE: setting	petrification	to	none	
+[00:00:14]: Loading Nav Grid	
+[00:00:14]: setting 	summerlength	15	
+[00:00:14]: setting 	isnightmaredawn	false	
+[00:00:14]: setting 	elapseddaysinseason	6	
+[00:00:14]: setting 	isfullmoon	false	
+[00:00:14]: setting 	moisture	4215.1259765625	
+[00:00:14]: setting 	springlength	20	
+[00:00:14]: setting 	isnightmarewild	false	
+[00:00:14]: setting 	moonphase	quarter	
+[00:00:14]: setting 	precipitationrate	0	
+[00:00:14]: setting 	iswet	false	
+[00:00:14]: setting 	isnewmoon	false	
+[00:00:14]: setting 	iswinter	false	
+[00:00:14]: setting 	israining	false	
+[00:00:14]: setting 	isnightmarewarn	false	
+[00:00:14]: setting 	precipitation	none	
+[00:00:14]: setting 	cavephase	day	
+[00:00:14]: setting 	moistureceil	4905.9995117188	
+[00:00:14]: setting 	isday	true	
+[00:00:14]: setting 	iscaveday	true	
+[00:00:14]: setting 	season	summer	
+[00:00:14]: setting 	timeinphase	0.0029763886422822	
+[00:00:14]: setting 	temperature	92.148473268047	
+[00:00:14]: setting 	isnightmarecalm	false	
+[00:00:14]: setting 	isnight	false	
+[00:00:14]: setting 	isdusk	false	
+[00:00:14]: setting 	iscavedusk	false	
+[00:00:14]: setting 	isautumn	false	
+[00:00:14]: setting 	issnowing	false	
+[00:00:14]: setting 	iswaxingmoon	true	
+[00:00:14]: setting 	pop	0.83287224317991	
+[00:00:14]: setting 	snowlevel	0	
+[00:00:14]: setting 	issnowcovered	false	
+[00:00:14]: setting 	autumnlength	20	
+[00:00:14]: setting 	phase	day	
+[00:00:14]: setting 	nightmaretime	0	
+[00:00:14]: setting 	winterlength	15	
+[00:00:14]: setting 	isspring	false	
+[00:00:14]: setting 	nightmarephase	none	
+[00:00:14]: setting 	remainingdaysinseason	9	
+[00:00:14]: setting 	cycles	61	
+[00:00:14]: setting 	iscavenight	false	
+[00:00:14]: setting 	nightmaretimeinphase	0	
+[00:00:14]: setting 	wetness	0	
+[00:00:14]: setting 	time	0.002046267191569	
+[00:00:14]: setting 	issummer	true	
+[00:00:14]: OVERRIDE: setting	disease_delay	to	none	
+[00:00:14]: OVERRIDE: setting	petrification	to	none	
+[00:00:15]: Could not find anim build FROMNUM
+[00:00:15]: Could not find anim bank [FROMNUM]
 [00:00:16]: Reveal treasure	
 [00:00:16]: Treasure revealed	
 [00:00:16]: Reveal treasure	
@@ -3211,318 +3213,442 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:00:16]: Treasure revealed	
 [00:00:16]: Reveal treasure	
 [00:00:16]: Treasure revealed	
-[00:00:20]: Reconstructing topology	
-[00:00:20]: 	...Sorting points	
-[00:00:20]: 	...Sorting edges	
-[00:00:20]: 	...Connecting nodes	
-[00:00:20]: 	...Validating connections	
-[00:00:20]: 	...Housekeeping	
-[00:00:20]: 	...Done!	
-[00:00:20]: Truncating to snapshot #121...
-[00:00:20]:  - session/1114628FBE949C4A/0000000106
-[00:00:20]:  - session/1114628FBE949C4A/0000000107
-[00:00:20]:  - session/1114628FBE949C4A/0000000108
-[00:00:20]:  - session/1114628FBE949C4A/0000000109
-[00:00:20]:  - session/1114628FBE949C4A/0000000110
-[00:00:20]:  - session/1114628FBE949C4A/0000000111
-[00:00:20]:  - session/1114628FBE949C4A/0000000112
-[00:00:20]:  - session/1114628FBE949C4A/0000000113
-[00:00:20]:  - session/1114628FBE949C4A/0000000114
-[00:00:20]:  - session/1114628FBE949C4A/0000000115
-[00:00:20]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000115
-[00:00:20]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000114
-[00:00:20]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000113
-[00:00:20]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000107
-[00:00:20]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000106
-[00:00:20]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000115
-[00:00:20]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000114
-[00:00:20]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000113
-[00:00:20]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000112
-[00:00:20]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000111
-[00:00:20]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000110
-[00:00:20]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000109
-[00:00:20]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000108
-[00:00:20]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000107
-[00:00:20]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000106
-[00:00:20]:    25 file(s) removed
-[00:00:20]: Restoring user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000121	
-[00:00:20]: component colourtweener already exists!	scripts/prefabs/player_common.lua:1841 in (field) fn (Lua) <1580-1913>	
-[00:00:20]: Restoring user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000121	
-[00:00:20]: component colourtweener already exists!	scripts/prefabs/player_common.lua:1841 in (field) fn (Lua) <1580-1913>	
-[00:00:20]: Serializing user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000122
-[00:00:20]: Serializing user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000122
-[00:00:20]: 1 uploads added to server. From server_temp
-[00:00:20]: About to start a shard with these settings:
-[00:00:20]:   ShardName: [SHDMASTER]
-[00:00:20]:   ShardID: 1
-[00:00:20]:   ShardRole: MASTER
-[00:00:20]:   MasterHost: (null)
-[00:00:20]:   MasterBind: 127.0.0.1
-[00:00:20]:   MasterPort: 10888
-[00:00:20]: [Shard] Starting master server
-[00:00:20]: [Warning] Could not confirm port 10888 is open in the firewall. 
-[00:00:20]: [Shard] Shard server started on port: 10888
-[00:00:20]: Telling Client our new session identifier: 1114628FBE949C4A
-[00:00:20]: ModIndex: Load sequence finished successfully.	
-[00:00:20]: Reset() returning
-[00:00:20]: [Rail] Creating game server...
-[00:00:20]: [Rail] Done.
+[00:00:16]: Reveal treasure	
+[00:00:16]: Treasure revealed	
+[00:00:19]: Reconstructing topology	
+[00:00:19]: 	...Sorting points	
+[00:00:19]: 	...Sorting edges	
+[00:00:19]: 	...Connecting nodes	
+[00:00:19]: 	...Validating connections	
+[00:00:19]: 	...Housekeeping	
+[00:00:19]: 	...Done!	
+[00:00:19]: Truncating to snapshot #69...
+[00:00:19]:  - session/1114628FBE949C4A/0000000059
+[00:00:19]:  - session/1114628FBE949C4A/0000000060
+[00:00:19]:  - session/1114628FBE949C4A/0000000061
+[00:00:19]:  - session/1114628FBE949C4A/0000000062
+[00:00:19]:  - session/1114628FBE949C4A/0000000063
+[00:00:19]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000063
+[00:00:19]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000062
+[00:00:19]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000061
+[00:00:19]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000060
+[00:00:19]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000059
+[00:00:19]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000063
+[00:00:19]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000062
+[00:00:19]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000061
+[00:00:19]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000060
+[00:00:19]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000059
+[00:00:19]:    15 file(s) removed
+[00:00:19]: Restoring user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000069	
+[00:00:19]: component colourtweener already exists!	scripts/prefabs/player_common.lua:1841 in (field) fn (Lua) <1580-1913>	
+[00:00:19]: Restoring user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000069	
+[00:00:19]: component colourtweener already exists!	scripts/prefabs/player_common.lua:1841 in (field) fn (Lua) <1580-1913>	
+[00:00:19]: Serializing user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000070
+[00:00:19]: Serializing user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000070
+[00:00:19]: 1 uploads added to server. From server_temp
+[00:00:19]: About to start a shard with these settings:
+[00:00:19]:   ShardName: [SHDMASTER]
+[00:00:19]:   ShardID: 1
+[00:00:19]:   ShardRole: MASTER
+[00:00:19]:   MasterHost: (null)
+[00:00:19]:   MasterBind: 127.0.0.1
+[00:00:19]:   MasterPort: 10888
+[00:00:19]: [Shard] Starting master server
+[00:00:19]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:19]: [Shard] Shard server started on port: 10888
+[00:00:19]: Telling Client our new session identifier: 1114628FBE949C4A
+[00:00:19]: ModIndex: Load sequence finished successfully.	
+[00:00:19]: Reset() returning
+[00:00:19]: [Rail] Creating game server...
+[00:00:19]: [Rail] Done.
+[00:00:20]: Validating portal[4] <-> 2381772428[4] (inactive)	
+[00:00:20]: Validating portal[5] <-> 2381772428[5] (inactive)	
 [00:00:20]: Validating portal[6] <-> 2381772428[6] (inactive)	
 [00:00:20]: Validating portal[10] <-> 2381772428[10] (inactive)	
-[00:00:20]: Validating portal[7] <-> 2381772428[7] (inactive)	
-[00:00:20]: Validating portal[8] <-> 2381772428[8] (inactive)	
-[00:00:20]: Validating portal[1] <-> 2381772428[1] (inactive)	
-[00:00:20]: Validating portal[5] <-> 2381772428[5] (inactive)	
-[00:00:20]: Validating portal[9] <-> 2381772428[9] (inactive)	
-[00:00:20]: Validating portal[4] <-> 2381772428[4] (inactive)	
-[00:00:20]: Validating portal[3] <-> 2381772428[3] (inactive)	
 [00:00:20]: Validating portal[2] <-> 2381772428[2] (inactive)	
+[00:00:20]: Validating portal[7] <-> 2381772428[7] (inactive)	
+[00:00:20]: Validating portal[9] <-> 2381772428[9] (inactive)	
+[00:00:20]: Validating portal[8] <-> 2381772428[8] (inactive)	
+[00:00:20]: Validating portal[3] <-> 2381772428[3] (inactive)	
+[00:00:20]: Validating portal[1] <-> 2381772428[1] (inactive)	
 [00:00:20]: [Rail] Game server created.
-[00:00:20]: [P2P] Setting rail id 90071997175191973
+[00:00:20]: [P2P] Setting rail id 90071997174471327
 [00:00:20]: Sim paused
-[00:00:21]: [Rail] Register to server list success.
+[00:00:20]: [Rail] Register to server list success.
 [00:00:23]: [Shard] Slave Caves(2381772428) connected: [LAN] 127.0.0.1
-[00:00:25]: [Shard] Slave Caves(2381772428) ready!
-[00:00:25]: World 2381772428 is now connected	
-[00:00:25]: Validating portal[6] <-> 2381772428[6] (active)	
-[00:00:25]: Validating portal[10] <-> 2381772428[10] (active)	
-[00:00:25]: Validating portal[7] <-> 2381772428[7] (disabled)	
-[00:00:25]: Validating portal[8] <-> 2381772428[8] (active)	
-[00:00:25]: Validating portal[1] <-> 2381772428[1] (active)	
-[00:00:25]: Validating portal[5] <-> 2381772428[5] (active)	
-[00:00:25]: Validating portal[9] <-> 2381772428[9] (active)	
-[00:00:25]: Validating portal[4] <-> 2381772428[4] (active)	
-[00:00:25]: Validating portal[3] <-> 2381772428[3] (active)	
-[00:00:25]: Validating portal[2] <-> 2381772428[2] (active)	
-[00:00:25]: [Shard] Slave 'Caves(2381772428)' restarting...
-[00:00:25]: World 2381772428 is now disconnected	
-[00:00:25]: Validating portal[6] <-> 2381772428[6] (inactive)	
-[00:00:25]: Validating portal[10] <-> 2381772428[10] (inactive)	
-[00:00:25]: Validating portal[7] <-> 2381772428[7] (inactive)	
-[00:00:25]: Validating portal[8] <-> 2381772428[8] (inactive)	
-[00:00:25]: Validating portal[1] <-> 2381772428[1] (inactive)	
-[00:00:25]: Validating portal[5] <-> 2381772428[5] (inactive)	
-[00:00:25]: Validating portal[9] <-> 2381772428[9] (inactive)	
-[00:00:25]: Validating portal[4] <-> 2381772428[4] (inactive)	
-[00:00:25]: Validating portal[3] <-> 2381772428[3] (inactive)	
-[00:00:25]: Validating portal[2] <-> 2381772428[2] (inactive)	
-[00:00:32]: [Shard] Slave Caves(2381772428) ready!
-[00:00:32]: World 2381772428 is now connected	
-[00:00:32]: Validating portal[6] <-> 2381772428[6] (active)	
-[00:00:32]: Validating portal[10] <-> 2381772428[10] (active)	
-[00:00:32]: Validating portal[7] <-> 2381772428[7] (disabled)	
-[00:00:32]: Validating portal[8] <-> 2381772428[8] (active)	
-[00:00:32]: Validating portal[1] <-> 2381772428[1] (active)	
-[00:00:32]: Validating portal[5] <-> 2381772428[5] (active)	
-[00:00:32]: Validating portal[9] <-> 2381772428[9] (active)	
-[00:00:32]: Validating portal[4] <-> 2381772428[4] (active)	
-[00:00:32]: Validating portal[3] <-> 2381772428[3] (active)	
-[00:00:32]: Validating portal[2] <-> 2381772428[2] (active)	
-[00:00:57]: New incoming connection 192.168.3.14|63668 <2764682900304056146>
-[00:00:57]: Client connected from [LAN] 192.168.3.14|63668 <2764682900304056146>
-[00:00:57]: ValidateGameSessionToken pgs-sing^KU_uGVY9eiS^DontStarveTogether^TB2Rl9K4rWcPfs2/Bwg5DenHpf7SmHLAMAeGLiR7kSA= for <2764682900304056146>
-[00:00:58]: Client authenticated: (KU_uGVY9eiS) White
-[00:00:59]: [Shard] Read save location file for (KU_uGVY9eiS)
-[00:00:59]: [Rail] Reporting played with: "White" (R:76561197972548583).
-[00:00:59]: [Rail] Reporting player join "White" (R:76561197972548583).
-[00:01:08]: Resuming user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000122
-[00:01:08]: component colourtweener already exists!	scripts/prefabs/player_common.lua:1841 in (field) fn (Lua) <1580-1913>	
-[00:01:08]: Spawning player at: [Load] (-199.19, 0.00, -418.30)	
-[00:01:08]: Sim unpaused
-[00:01:18]: SimLuaProxy::QueryServer()
-[00:01:19]: ----------------- HEALTH INFO WARNING ------------------	
-[00:01:19]: Please, show this log message to authors of Health Info mod.	
-[00:01:19]: Unknown Prefabs: dyc_door_limestone/dyc_wall_stone/dyc_fence_gate/fence_gate/dyc_fence	
-[00:01:19]: The mod should be fixed to support these prefabs.	
-[00:01:19]: Also you can change settings of the Health Info mod to be more useful but less compatible.	
-[00:01:19]: If you are mod developer, you can add the tag "healthinfo" to you prefab:	
-[00:01:19]: inst:AddTag("healthinfo")	
-[00:01:19]: Add tags before this line: inst.entity:SetPristine()	
-[00:01:19]: Thanks!	
-[00:01:19]: --------------------------------------------------------	
-[00:02:01]: [P2P] Session request for '76561197972580019'
-[00:02:01]: [P2P] Create session: 202.127.123.255|1 'R:76561197972580019'
-[00:02:01]: [P2P] Received from 202.127.123.255|1 'R:76561197972580019'
-[00:02:01]: [P2P] Sent to 202.127.123.255|1 'R:76561197972580019'
-[00:02:01]: New incoming connection 202.127.123.255|1 <1562035919712689143>
-[00:02:01]: Client connected from 202.127.123.255|1 <1562035919712689143>
-[00:02:01]: ValidateGameSessionToken pgs-sing^KU_3RvV9CCb^DontStarveTogether^I7TSaF3REG1DY0zqRbvocDW67Bf/RmP8vDv4E8VH9UE= for <1562035919712689143>
-[00:02:02]: Client authenticated: (KU_3RvV9CCb) 没错我就是小仙女
-[00:02:03]: [Shard] Read save location file for (KU_3RvV9CCb)
-[00:02:03]: [Rail] Reporting played with: "没错我就是小仙女" (R:76561197972580019).
-[00:02:03]: [Rail] Reporting player join "没错我就是小仙女" (R:76561197972580019).
-[00:02:13]: Resuming user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000122
-[00:02:13]: component colourtweener already exists!	scripts/prefabs/player_common.lua:1841 in (field) fn (Lua) <1580-1913>	
-[00:02:13]: Spawning player at: [Load] (-198.55, 0.00, -415.25)	
-[00:05:03]: [SYSMEM]34% - PH:10668m/16322m PG:9923m/17346m VRT:3235m/4095m XM:0m
-[00:05:03]: [PRCMEM]PWS:682m WS:670m PPU:292k PU 263k PNU:191k NU:117k PF:689m PPF:701m
-[00:06:14]: 114352 - musha	TRIED TO GO TO INVALID STATE	sleeping	
-[00:09:09]: Serializing user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000122
-[00:09:09]: Serializing user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000122
-[00:09:09]: Serializing world: session/1114628FBE949C4A/0000000122
-[00:10:03]: [SYSMEM]34% - PH:10651m/16322m PG:9904m/17346m VRT:3219m/4095m XM:0m
-[00:10:03]: [PRCMEM]PWS:696m WS:681m PPU:292k PU 262k PNU:191k NU:116k PF:700m PPF:715m
-[00:12:05]: Failed to send server listings
-[00:12:05]: Failure error code received: 504
-[00:12:05]: With Body: 
-[00:15:03]: [SYSMEM]34% - PH:10621m/16322m PG:9872m/17346m VRT:3219m/4095m XM:0m
-[00:15:03]: [PRCMEM]PWS:696m WS:681m PPU:292k PU 262k PNU:191k NU:116k PF:700m PPF:715m
-[00:17:09]: Serializing user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000123
-[00:17:09]: Serializing user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000123
-[00:17:09]: Serializing world: session/1114628FBE949C4A/0000000123
-[00:20:03]: [SYSMEM]34% - PH:10646m/16322m PG:9863m/17346m VRT:3220m/4095m XM:0m
-[00:20:03]: [PRCMEM]PWS:700m WS:682m PPU:292k PU 262k PNU:191k NU:116k PF:700m PPF:719m
-[00:25:03]: [SYSMEM]35% - PH:10564m/16322m PG:9755m/17346m VRT:3219m/4095m XM:0m
-[00:25:03]: [PRCMEM]PWS:700m WS:682m PPU:292k PU 262k PNU:191k NU:116k PF:700m PPF:719m
-[00:25:09]: Serializing user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000124
-[00:25:09]: Serializing user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000124
-[00:25:09]: Serializing world: session/1114628FBE949C4A/0000000124
-[00:26:17]: [(KU_uGVY9eiS) White] ReceiveRemoteExecute(TheInput:GetWorldEntityUnderMouse():Remove()) @(-511.53, 90.23)
-[00:26:17]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
-[00:26:21]: [(KU_uGVY9eiS) White] ReceiveRemoteExecute(TheInput:GetWorldEntityUnderMouse():Remove()) @(-511.53, 90.23)
-[00:26:21]: [string "TheInput:GetWorldEntityUnderMouse():Remove(..."]:1: attempt to index a nil value
-[00:30:02]: Connection lost to 202.127.123.255|1 <1562035919712689143>
-[00:30:02]: [Shard] (KU_3RvV9CCb) disconnected from [SHDMASTER](1)
-[00:30:02]: [Rail] Reporting player quit "没错我就是小仙女" (R:76561197972580019).
-[00:30:02]: Serializing user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000125
-[00:30:03]: [SYSMEM]35% - PH:10486m/16322m PG:9654m/17346m VRT:3219m/4095m XM:0m
-[00:30:03]: [PRCMEM]PWS:700m WS:682m PPU:292k PU 262k PNU:191k NU:116k PF:700m PPF:719m
+[00:00:24]: [Shard] Slave Caves(2381772428) ready!
+[00:00:24]: World 2381772428 is now connected	
+[00:00:24]: Validating portal[4] <-> 2381772428[4] (active)	
+[00:00:24]: Validating portal[5] <-> 2381772428[5] (active)	
+[00:00:24]: Validating portal[6] <-> 2381772428[6] (active)	
+[00:00:24]: Validating portal[10] <-> 2381772428[10] (active)	
+[00:00:24]: Validating portal[2] <-> 2381772428[2] (active)	
+[00:00:24]: Validating portal[7] <-> 2381772428[7] (disabled)	
+[00:00:24]: Validating portal[9] <-> 2381772428[9] (active)	
+[00:00:24]: Validating portal[8] <-> 2381772428[8] (active)	
+[00:00:24]: Validating portal[3] <-> 2381772428[3] (active)	
+[00:00:24]: Validating portal[1] <-> 2381772428[1] (active)	
+[00:00:46]: New incoming connection 192.168.3.14|56967 <2912490615198017325>
+[00:00:46]: Client connected from [LAN] 192.168.3.14|56967 <2912490615198017325>
+[00:00:46]: ValidateGameSessionToken pgs-sing^KU_uGVY9eiS^DontStarveTogether^iyFSVzy/wgvyv2xf6XUn7xMQvFlUAXvRGSt70P/UujA= for <2912490615198017325>
+[00:00:46]: Client authenticated: (KU_uGVY9eiS) White
+[00:00:48]: [Shard] Read save location file for (KU_uGVY9eiS)
+[00:00:48]: [Rail] Reporting played with: "White" (R:76561197972548583).
+[00:00:48]: [Rail] Reporting player join "White" (R:76561197972548583).
+[00:00:57]: Resuming user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000070
+[00:00:57]: component colourtweener already exists!	scripts/prefabs/player_common.lua:1841 in (field) fn (Lua) <1580-1913>	
+[00:00:57]: Spawning player at: [Load] (-524.85, 0.00, 120.96)	
+[00:00:57]: Sim unpaused
+[00:01:07]: SimLuaProxy::QueryServer()
+[00:01:07]: ----------------- HEALTH INFO WARNING ------------------	
+[00:01:07]: Please, show this log message to authors of Health Info mod.	
+[00:01:07]: Unknown Prefabs: dyc_wall_stone/dyc_fence_gate/fence_gate/dyc_fence	
+[00:01:07]: The mod should be fixed to support these prefabs.	
+[00:01:07]: Also you can change settings of the Health Info mod to be more useful but less compatible.	
+[00:01:07]: If you are mod developer, you can add the tag "healthinfo" to you prefab:	
+[00:01:07]: inst:AddTag("healthinfo")	
+[00:01:07]: Add tags before this line: inst.entity:SetPristine()	
+[00:01:07]: Thanks!	
+[00:01:07]: --------------------------------------------------------	
+[00:04:48]: [(KU_uGVY9eiS) White] ReceiveRemoteExecute(c_give("flint",40)) @(-524.46, 104.32)
+[00:04:48]: giving 	112781 - flint	
+[00:04:48]: giving 	112783 - flint	
+[00:04:48]: giving 	112785 - flint	
+[00:04:48]: giving 	112787 - flint	
+[00:04:48]: giving 	112789 - flint	
+[00:04:48]: giving 	112791 - flint	
+[00:04:48]: giving 	112793 - flint	
+[00:04:48]: giving 	112795 - flint	
+[00:04:48]: giving 	112797 - flint	
+[00:04:48]: giving 	112799 - flint	
+[00:04:48]: giving 	112801 - flint	
+[00:04:48]: giving 	112803 - flint	
+[00:04:48]: giving 	112805 - flint	
+[00:04:48]: giving 	112807 - flint	
+[00:04:48]: giving 	112809 - flint	
+[00:04:48]: giving 	112811 - flint	
+[00:04:48]: giving 	112813 - flint	
+[00:04:48]: giving 	112815 - flint	
+[00:04:48]: giving 	112817 - flint	
+[00:04:48]: giving 	112819 - flint	
+[00:04:48]: giving 	112821 - flint	
+[00:04:48]: giving 	112823 - flint	
+[00:04:48]: giving 	112825 - flint	
+[00:04:48]: giving 	112827 - flint	
+[00:04:48]: giving 	112829 - flint	
+[00:04:48]: giving 	112831 - flint	
+[00:04:48]: giving 	112833 - flint	
+[00:04:48]: giving 	112835 - flint	
+[00:04:48]: giving 	112837 - flint	
+[00:04:48]: giving 	112839 - flint	
+[00:04:48]: giving 	112841 - flint	
+[00:04:48]: giving 	112843 - flint	
+[00:04:48]: giving 	112845 - flint	
+[00:04:48]: giving 	112847 - flint	
+[00:04:48]: giving 	112849 - flint	
+[00:04:48]: giving 	112851 - flint	
+[00:04:48]: giving 	112853 - flint	
+[00:04:48]: giving 	112855 - flint	
+[00:04:48]: giving 	112857 - flint	
+[00:04:48]: giving 	112859 - flint	
+[00:05:03]: [SYSMEM]39% - PH:9870m/16322m PG:8248m/17346m VRT:3250m/4095m XM:0m
+[00:05:03]: [PRCMEM]PWS:663m WS:652m PPU:292k PU 262k PNU:131k NU:115k PF:670m PPF:682m
+[00:06:47]: [Shard] (KU_uGVY9eiS) disconnected from [SHDMASTER](1)
+[00:06:47]: [Rail] Reporting player quit "White" (R:76561197972548583).
+[00:06:47]: Serializing user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000070
+[00:06:47]: Sim paused
+[00:07:03]: New incoming connection 192.168.3.14|57651 <2115974668743140749>
+[00:07:03]: Client connected from [LAN] 192.168.3.14|57651 <2115974668743140749>
+[00:07:03]: ValidateGameSessionToken pgs-sing^KU_uGVY9eiS^DontStarveTogether^lDOFzxLAxUm6p+H62ZX0mMkXP5QD3TIsi5OiWo7FgJI= for <2115974668743140749>
+[00:07:03]: Client authenticated: (KU_uGVY9eiS) White
+[00:07:05]: [Shard] Read save location file for (KU_uGVY9eiS)
+[00:07:05]: [Rail] Reporting played with: "White" (R:76561197972548583).
+[00:07:05]: [Rail] Reporting player join "White" (R:76561197972548583).
+[00:07:14]: Resuming user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000070
+[00:07:14]: component colourtweener already exists!	scripts/prefabs/player_common.lua:1841 in (field) fn (Lua) <1580-1913>	
+[00:07:14]: Spawning player at: [Load] (-520.93, 0.00, 109.76)	
+[00:07:14]: Sim unpaused
+[00:07:48]: ConsoleInput: "(c_give("flint",40)) @(-524.46, 104.32)"
+[00:07:48]: attempt to call a nil value
+[00:07:54]: ConsoleInput: "c_give("flint",40) @(-524.46, 104.32)"
+[00:07:54]: attempt to call a nil value
+[00:07:58]: ConsoleInput: "c_give("flint",40) -524.46, 104.32"
+[00:07:58]: attempt to call a nil value
+[00:08:01]: ConsoleInput: "c_give("flint",40)"
+[00:08:01]: giving 	113773 - flint	
+[00:08:01]: giving 	113775 - flint	
+[00:08:01]: giving 	113777 - flint	
+[00:08:01]: giving 	113779 - flint	
+[00:08:01]: giving 	113781 - flint	
+[00:08:01]: giving 	113783 - flint	
+[00:08:01]: giving 	113785 - flint	
+[00:08:01]: giving 	113787 - flint	
+[00:08:01]: giving 	113789 - flint	
+[00:08:01]: giving 	113791 - flint	
+[00:08:01]: giving 	113793 - flint	
+[00:08:01]: giving 	113795 - flint	
+[00:08:01]: giving 	113797 - flint	
+[00:08:01]: giving 	113799 - flint	
+[00:08:01]: giving 	113801 - flint	
+[00:08:01]: giving 	113803 - flint	
+[00:08:01]: giving 	113805 - flint	
+[00:08:01]: giving 	113807 - flint	
+[00:08:01]: giving 	113809 - flint	
+[00:08:01]: giving 	113811 - flint	
+[00:08:01]: giving 	113813 - flint	
+[00:08:01]: giving 	113815 - flint	
+[00:08:01]: giving 	113817 - flint	
+[00:08:01]: giving 	113819 - flint	
+[00:08:01]: giving 	113821 - flint	
+[00:08:01]: giving 	113823 - flint	
+[00:08:01]: giving 	113825 - flint	
+[00:08:01]: giving 	113827 - flint	
+[00:08:01]: giving 	113829 - flint	
+[00:08:01]: giving 	113831 - flint	
+[00:08:01]: giving 	113833 - flint	
+[00:08:01]: giving 	113835 - flint	
+[00:08:01]: giving 	113837 - flint	
+[00:08:01]: giving 	113839 - flint	
+[00:08:01]: giving 	113841 - flint	
+[00:08:01]: giving 	113843 - flint	
+[00:08:01]: giving 	113845 - flint	
+[00:08:01]: giving 	113847 - flint	
+[00:08:01]: giving 	113849 - flint	
+[00:08:01]: giving 	113851 - flint	
+[00:08:16]: ConsoleInput: "c_give("exp",2)"
+[00:08:16]: giving 	113856 - exp	
+[00:08:16]: giving 	113858 - exp	
+[00:08:31]: Treasure revealed	
+[00:09:20]: ConsoleInput: "c_give("flint",40)"
+[00:09:20]: giving 	114420 - flint	
+[00:09:20]: giving 	114422 - flint	
+[00:09:20]: giving 	114424 - flint	
+[00:09:20]: giving 	114426 - flint	
+[00:09:20]: giving 	114428 - flint	
+[00:09:20]: giving 	114430 - flint	
+[00:09:20]: giving 	114432 - flint	
+[00:09:20]: giving 	114434 - flint	
+[00:09:20]: giving 	114436 - flint	
+[00:09:20]: giving 	114438 - flint	
+[00:09:20]: giving 	114440 - flint	
+[00:09:20]: giving 	114442 - flint	
+[00:09:20]: giving 	114444 - flint	
+[00:09:20]: giving 	114446 - flint	
+[00:09:20]: giving 	114448 - flint	
+[00:09:20]: giving 	114450 - flint	
+[00:09:20]: giving 	114452 - flint	
+[00:09:20]: giving 	114454 - flint	
+[00:09:20]: giving 	114456 - flint	
+[00:09:20]: giving 	114458 - flint	
+[00:09:20]: giving 	114460 - flint	
+[00:09:20]: giving 	114462 - flint	
+[00:09:20]: giving 	114464 - flint	
+[00:09:20]: giving 	114466 - flint	
+[00:09:20]: giving 	114468 - flint	
+[00:09:20]: giving 	114470 - flint	
+[00:09:20]: giving 	114472 - flint	
+[00:09:20]: giving 	114474 - flint	
+[00:09:20]: giving 	114476 - flint	
+[00:09:20]: giving 	114478 - flint	
+[00:09:20]: giving 	114480 - flint	
+[00:09:20]: giving 	114482 - flint	
+[00:09:20]: giving 	114484 - flint	
+[00:09:20]: giving 	114486 - flint	
+[00:09:20]: giving 	114488 - flint	
+[00:09:20]: giving 	114490 - flint	
+[00:09:20]: giving 	114492 - flint	
+[00:09:20]: giving 	114494 - flint	
+[00:09:20]: giving 	114496 - flint	
+[00:09:20]: giving 	114498 - flint	
+[00:09:24]: Serializing user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000070
+[00:09:24]: Serializing world: session/1114628FBE949C4A/0000000070
+[00:10:03]: [SYSMEM]39% - PH:9855m/16322m PG:8410m/17346m VRT:3250m/4095m XM:0m
+[00:10:03]: [PRCMEM]PWS:672m WS:657m PPU:292k PU 262k PNU:131k NU:115k PF:676m PPF:691m
+[00:10:59]: ConsoleInput: "c_give("goldnugget", 10)"
+[00:10:59]: giving 	115214 - goldnugget	
+[00:10:59]: giving 	115216 - goldnugget	
+[00:10:59]: giving 	115218 - goldnugget	
+[00:10:59]: giving 	115220 - goldnugget	
+[00:10:59]: giving 	115222 - goldnugget	
+[00:10:59]: giving 	115224 - goldnugget	
+[00:10:59]: giving 	115226 - goldnugget	
+[00:10:59]: giving 	115228 - goldnugget	
+[00:10:59]: giving 	115230 - goldnugget	
+[00:10:59]: giving 	115232 - goldnugget	
+[00:12:58]: ConsoleInput: "c_give("bird_egg", 40)"
+[00:12:58]: giving 	115535 - bird_egg	
+[00:12:58]: giving 	115537 - bird_egg	
+[00:12:58]: giving 	115539 - bird_egg	
+[00:12:58]: giving 	115541 - bird_egg	
+[00:12:58]: giving 	115543 - bird_egg	
+[00:12:58]: giving 	115545 - bird_egg	
+[00:12:58]: giving 	115547 - bird_egg	
+[00:12:58]: giving 	115549 - bird_egg	
+[00:12:58]: giving 	115551 - bird_egg	
+[00:12:58]: giving 	115553 - bird_egg	
+[00:12:58]: giving 	115555 - bird_egg	
+[00:12:58]: giving 	115557 - bird_egg	
+[00:12:58]: giving 	115559 - bird_egg	
+[00:12:58]: giving 	115561 - bird_egg	
+[00:12:58]: giving 	115563 - bird_egg	
+[00:12:58]: giving 	115565 - bird_egg	
+[00:12:58]: giving 	115567 - bird_egg	
+[00:12:58]: giving 	115569 - bird_egg	
+[00:12:58]: giving 	115571 - bird_egg	
+[00:12:58]: giving 	115573 - bird_egg	
+[00:12:58]: giving 	115575 - bird_egg	
+[00:12:58]: giving 	115577 - bird_egg	
+[00:12:58]: giving 	115579 - bird_egg	
+[00:12:58]: giving 	115581 - bird_egg	
+[00:12:58]: giving 	115583 - bird_egg	
+[00:12:58]: giving 	115585 - bird_egg	
+[00:12:58]: giving 	115587 - bird_egg	
+[00:12:58]: giving 	115589 - bird_egg	
+[00:12:58]: giving 	115591 - bird_egg	
+[00:12:58]: giving 	115593 - bird_egg	
+[00:12:58]: giving 	115595 - bird_egg	
+[00:12:58]: giving 	115597 - bird_egg	
+[00:12:58]: giving 	115599 - bird_egg	
+[00:12:58]: giving 	115601 - bird_egg	
+[00:12:58]: giving 	115603 - bird_egg	
+[00:12:58]: giving 	115605 - bird_egg	
+[00:12:58]: giving 	115607 - bird_egg	
+[00:12:58]: giving 	115609 - bird_egg	
+[00:12:58]: giving 	115611 - bird_egg	
+[00:12:58]: giving 	115613 - bird_egg	
+[00:14:43]: [Shard] (KU_uGVY9eiS) disconnected from [SHDMASTER](1)
+[00:14:43]: [Rail] Reporting player quit "White" (R:76561197972548583).
+[00:14:44]: Serializing user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000071
+[00:14:44]: Sim paused
+[00:15:03]: [SYSMEM]34% - PH:10674m/16322m PG:9288m/17346m VRT:3250m/4095m XM:0m
+[00:15:03]: [PRCMEM]PWS:672m WS:657m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[00:20:03]: [SYSMEM]35% - PH:10532m/16322m PG:9256m/17346m VRT:3252m/4095m XM:0m
+[00:20:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[00:25:03]: [SYSMEM]35% - PH:10527m/16322m PG:9260m/17346m VRT:3250m/4095m XM:0m
+[00:25:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[00:30:03]: [SYSMEM]32% - PH:11022m/16322m PG:10147m/17346m VRT:3250m/4095m XM:0m
+[00:30:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
 [00:30:08]: [200] Account Communication Success (6)
 [00:30:08]: Received (KU_uGVY9eiS) from TokenPurpose
-[00:31:05]: [Shard] (KU_uGVY9eiS) disconnected from [SHDMASTER](1)
-[00:31:05]: [Rail] Reporting player quit "White" (R:76561197972548583).
-[00:31:05]: Serializing user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000125
-[00:31:05]: Sim paused
-[00:35:03]: [SYSMEM]24% - PH:12266m/16322m PG:12083m/17346m VRT:3219m/4095m XM:0m
-[00:35:03]: [PRCMEM]PWS:700m WS:682m PPU:292k PU 262k PNU:191k NU:115k PF:700m PPF:719m
-[00:40:02]: [P2P] Session timed out for 'R:76561197972580019'
-[00:40:02]: [P2P] Remove session: 202.127.123.255|1 'R:76561197972580019'
-[00:40:03]: [SYSMEM]24% - PH:12263m/16322m PG:12079m/17346m VRT:3220m/4095m XM:0m
-[00:40:03]: [PRCMEM]PWS:700m WS:682m PPU:292k PU 262k PNU:191k NU:115k PF:700m PPF:719m
-[00:45:03]: [SYSMEM]25% - PH:12207m/16322m PG:12023m/17346m VRT:3219m/4095m XM:0m
-[00:45:03]: [PRCMEM]PWS:700m WS:682m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[00:50:03]: [SYSMEM]24% - PH:12304m/16322m PG:12072m/17346m VRT:3219m/4095m XM:0m
-[00:50:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[00:55:03]: [SYSMEM]24% - PH:12298m/16322m PG:12081m/17346m VRT:3219m/4095m XM:0m
-[00:55:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[01:00:03]: [SYSMEM]24% - PH:12290m/16322m PG:12070m/17346m VRT:3220m/4095m XM:0m
-[01:00:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:113k PF:700m PPF:719m
+[00:35:03]: [SYSMEM]30% - PH:11338m/16322m PG:10570m/17346m VRT:3250m/4095m XM:0m
+[00:35:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[00:40:03]: [SYSMEM]30% - PH:11347m/16322m PG:10581m/17346m VRT:3252m/4095m XM:0m
+[00:40:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[00:45:03]: [SYSMEM]30% - PH:11381m/16322m PG:10586m/17346m VRT:3250m/4095m XM:0m
+[00:45:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[00:50:03]: [SYSMEM]30% - PH:11389m/16322m PG:10590m/17346m VRT:3250m/4095m XM:0m
+[00:50:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[00:55:03]: [SYSMEM]30% - PH:11385m/16322m PG:10595m/17346m VRT:3250m/4095m XM:0m
+[00:55:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[01:00:03]: [SYSMEM]30% - PH:11382m/16322m PG:10592m/17346m VRT:3252m/4095m XM:0m
+[01:00:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
 [01:00:08]: [200] Account Communication Success (6)
 [01:00:08]: Received (KU_uGVY9eiS) from TokenPurpose
-[01:05:03]: [SYSMEM]24% - PH:12269m/16322m PG:11951m/17346m VRT:3219m/4095m XM:0m
-[01:05:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[01:10:03]: [SYSMEM]24% - PH:12248m/16322m PG:11926m/17346m VRT:3219m/4095m XM:0m
-[01:10:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[01:15:03]: [SYSMEM]25% - PH:12217m/16322m PG:11900m/17346m VRT:3219m/4095m XM:0m
-[01:15:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[01:20:03]: [SYSMEM]24% - PH:12257m/16322m PG:11945m/17346m VRT:3220m/4095m XM:0m
-[01:20:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:113k PF:700m PPF:719m
-[01:25:03]: [SYSMEM]24% - PH:12262m/16322m PG:11963m/17346m VRT:3219m/4095m XM:0m
-[01:25:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[01:30:03]: [SYSMEM]24% - PH:12245m/16322m PG:11957m/17346m VRT:3219m/4095m XM:0m
-[01:30:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
+[01:05:03]: [SYSMEM]30% - PH:11380m/16322m PG:10591m/17346m VRT:3250m/4095m XM:0m
+[01:05:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[01:10:03]: [SYSMEM]30% - PH:11380m/16322m PG:10589m/17346m VRT:3250m/4095m XM:0m
+[01:10:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[01:15:03]: [SYSMEM]30% - PH:11376m/16322m PG:10588m/17346m VRT:3250m/4095m XM:0m
+[01:15:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[01:20:03]: [SYSMEM]30% - PH:11373m/16322m PG:10593m/17346m VRT:3252m/4095m XM:0m
+[01:20:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[01:25:03]: [SYSMEM]30% - PH:11382m/16322m PG:10584m/17346m VRT:3250m/4095m XM:0m
+[01:25:03]: [PRCMEM]PWS:672m WS:655m PPU:292k PU 261k PNU:131k NU:113k PF:676m PPF:691m
+[01:29:09]: [P2P] Session request for '76561197972580019'
+[01:29:10]: [P2P] Create session: 107.82.247.201|1 'R:76561197972580019'
+[01:29:10]: [P2P] Received from 107.82.247.201|1 'R:76561197972580019'
+[01:29:10]: [P2P] Sent to 107.82.247.201|1 'R:76561197972580019'
+[01:29:10]: New incoming connection 107.82.247.201|1 <4332794429026064436>
+[01:29:10]: Client connected from 107.82.247.201|1 <4332794429026064436>
+[01:29:10]: ValidateGameSessionToken pgs-sing^KU_3RvV9CCb^DontStarveTogether^RAwFPbjrsQ7FNgZM1SRORN60Z5JdYUS77uNbKXBVLPo= for <4332794429026064436>
+[01:29:11]: Client authenticated: (KU_3RvV9CCb) 没错我就是小仙女
+[01:29:13]: [Shard] Read save location file for (KU_3RvV9CCb)
+[01:29:13]: [Rail] Reporting played with: "没错我就是小仙女" (R:76561197972580019).
+[01:29:13]: [Rail] Reporting player join "没错我就是小仙女" (R:76561197972580019).
+[01:29:23]: Resuming user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000070
+[01:29:23]: component colourtweener already exists!	scripts/prefabs/player_common.lua:1841 in (field) fn (Lua) <1580-1913>	
+[01:29:23]: Spawning player at: [Load] (-532.60, 0.00, 141.47)	
+[01:29:23]: Sim unpaused
+[01:29:54]: [P2P] Session request for '76561197972548583'
+[01:29:54]: [P2P] Create session: 107.82.247.202|1 'R:76561197972548583'
+[01:29:54]: [P2P] Received from 107.82.247.202|1 'R:76561197972548583'
+[01:29:54]: [P2P] Sent to 107.82.247.202|1 'R:76561197972548583'
+[01:29:55]: New incoming connection 107.82.247.202|1 <156235083455845567>
+[01:29:55]: Client connected from 107.82.247.202|1 <156235083455845567>
+[01:29:55]: ValidateGameSessionToken pgs-sing^KU_uGVY9eiS^DontStarveTogether^+zvO0/6bMcH2OjJ17THmvMoH1MzXDUS0WkCp38z869Y= for <156235083455845567>
+[01:29:56]: Client authenticated: (KU_uGVY9eiS) White
+[01:29:56]: [Shard] Read save location file for (KU_uGVY9eiS)
+[01:29:56]: [Rail] Reporting played with: "White" (R:76561197972548583).
+[01:29:56]: [Rail] Reporting player join "White" (R:76561197972548583).
+[01:30:03]: [SYSMEM]30% - PH:11268m/16322m PG:8972m/17346m VRT:3248m/4095m XM:0m
+[01:30:03]: [PRCMEM]PWS:672m WS:271m PPU:292k PU 264k PNU:163k NU:123k PF:679m PPF:691m
+[01:30:05]: Resuming user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000071
+[01:30:05]: component colourtweener already exists!	scripts/prefabs/player_common.lua:1841 in (field) fn (Lua) <1580-1913>	
+[01:30:05]: Spawning player at: [Load] (-534.56, 0.00, 107.72)	
 [01:30:08]: [200] Account Communication Success (6)
 [01:30:08]: Received (KU_uGVY9eiS) from TokenPurpose
-[01:35:03]: [SYSMEM]24% - PH:12254m/16322m PG:11964m/17346m VRT:3219m/4095m XM:0m
-[01:35:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[01:40:03]: [SYSMEM]24% - PH:12252m/16322m PG:11956m/17346m VRT:3220m/4095m XM:0m
-[01:40:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:113k PF:700m PPF:719m
-[01:45:03]: [SYSMEM]25% - PH:12218m/16322m PG:11925m/17346m VRT:3219m/4095m XM:0m
-[01:45:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[01:50:03]: [SYSMEM]24% - PH:12249m/16322m PG:11966m/17346m VRT:3219m/4095m XM:0m
-[01:50:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[01:55:03]: [SYSMEM]24% - PH:12243m/16322m PG:11962m/17346m VRT:3219m/4095m XM:0m
-[01:55:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[02:00:03]: [SYSMEM]25% - PH:12210m/16322m PG:11920m/17346m VRT:3220m/4095m XM:0m
-[02:00:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:113k PF:700m PPF:719m
-[02:00:08]: [200] Account Communication Success (6)
-[02:00:08]: Received (KU_uGVY9eiS) from TokenPurpose
-[02:05:03]: [SYSMEM]24% - PH:12243m/16322m PG:11955m/17346m VRT:3219m/4095m XM:0m
-[02:05:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[02:10:03]: [SYSMEM]25% - PH:12234m/16322m PG:11949m/17346m VRT:3219m/4095m XM:0m
-[02:10:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[02:15:03]: [SYSMEM]25% - PH:12209m/16322m PG:11922m/17346m VRT:3219m/4095m XM:0m
-[02:15:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[02:20:03]: [SYSMEM]25% - PH:12240m/16322m PG:11955m/17346m VRT:3220m/4095m XM:0m
-[02:20:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:113k PF:700m PPF:719m
-[02:25:03]: [SYSMEM]24% - PH:12243m/16322m PG:11955m/17346m VRT:3219m/4095m XM:0m
-[02:25:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[02:30:03]: [SYSMEM]25% - PH:12224m/16322m PG:11946m/17346m VRT:3219m/4095m XM:0m
-[02:30:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[02:30:08]: [200] Account Communication Success (6)
-[02:30:08]: Received (KU_uGVY9eiS) from TokenPurpose
-[02:35:03]: [SYSMEM]25% - PH:12239m/16322m PG:11950m/17346m VRT:3219m/4095m XM:0m
-[02:35:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[02:40:03]: [SYSMEM]25% - PH:12232m/16322m PG:11944m/17346m VRT:3220m/4095m XM:0m
-[02:40:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:113k PF:700m PPF:719m
-[02:45:03]: [SYSMEM]25% - PH:12202m/16322m PG:11913m/17346m VRT:3219m/4095m XM:0m
-[02:45:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[02:50:03]: [SYSMEM]25% - PH:12202m/16322m PG:11921m/17346m VRT:3219m/4095m XM:0m
-[02:50:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[02:55:03]: [SYSMEM]25% - PH:12211m/16322m PG:11928m/17346m VRT:3219m/4095m XM:0m
-[02:55:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[03:00:03]: [SYSMEM]25% - PH:12189m/16322m PG:11904m/17346m VRT:3220m/4095m XM:0m
-[03:00:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:113k PF:700m PPF:719m
-[03:00:08]: [200] Account Communication Success (6)
-[03:00:08]: Received (KU_uGVY9eiS) from TokenPurpose
-[03:05:03]: [SYSMEM]25% - PH:12225m/16322m PG:11943m/17346m VRT:3219m/4095m XM:0m
-[03:05:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[03:10:03]: [SYSMEM]25% - PH:12207m/16322m PG:11925m/17346m VRT:3219m/4095m XM:0m
-[03:10:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[03:15:03]: [SYSMEM]25% - PH:12184m/16322m PG:11897m/17346m VRT:3219m/4095m XM:0m
-[03:15:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[03:20:03]: [SYSMEM]25% - PH:12228m/16322m PG:11947m/17346m VRT:3220m/4095m XM:0m
-[03:20:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:113k PF:700m PPF:719m
-[03:25:03]: [SYSMEM]25% - PH:12225m/16322m PG:11940m/17346m VRT:3219m/4095m XM:0m
-[03:25:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[03:30:03]: [SYSMEM]25% - PH:12178m/16322m PG:11897m/17346m VRT:3219m/4095m XM:0m
-[03:30:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[03:30:08]: [200] Account Communication Success (6)
-[03:30:08]: Received (KU_uGVY9eiS) from TokenPurpose
-[03:35:03]: [SYSMEM]25% - PH:12215m/16322m PG:11930m/17346m VRT:3219m/4095m XM:0m
-[03:35:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:114k PF:700m PPF:719m
-[03:40:03]: [SYSMEM]25% - PH:12197m/16322m PG:11923m/17346m VRT:3220m/4095m XM:0m
-[03:40:03]: [PRCMEM]PWS:700m WS:679m PPU:292k PU 261k PNU:191k NU:113k PF:700m PPF:719m
-[03:42:18]: Serializing world: session/1114628FBE949C4A/0000000125
-[03:42:18]: Truncating to snapshot #125...
-[03:42:18]:  - session/1114628FBE949C4A/0000000116
-[03:42:18]:  - session/1114628FBE949C4A/0000000117
-[03:42:18]:  - session/1114628FBE949C4A/0000000118
-[03:42:18]:  - session/1114628FBE949C4A/0000000119
-[03:42:18]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000119
-[03:42:18]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000118
-[03:42:18]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000117
-[03:42:18]:  - session/1114628FBE949C4A/KU_3RvV9CCb_/0000000116
-[03:42:18]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000119
-[03:42:18]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000118
-[03:42:18]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000117
-[03:42:18]:  - session/1114628FBE949C4A/KU_uGVY9eiS_/0000000116
-[03:42:18]:    12 file(s) removed
-[03:42:18]: unloading prefabs for mod MOD_workshop-2199027653598511264	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010059	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010058	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010062	
-[03:42:18]: unloading prefabs for mod MOD_workshop-2199027653598513601	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010039	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010024	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010027	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010034	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010007	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010002	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010026	
-[03:42:18]: unloading prefabs for mod MOD_workshop-100010023	
-[03:42:18]: [Shard] Stopping shard mode
-[03:42:18]: Collecting garbage...
-[03:42:18]: lua_gc took 0.17 seconds
-[03:42:18]: ~ShardLuaProxy()
-[03:42:18]: ~ItemServerLuaProxy()
-[03:42:18]: ~InventoryLuaProxy()
-[03:42:18]: ~NetworkLuaProxy()
-[03:42:18]: ~SimLuaProxy()
-[03:42:19]: lua_close took 0.32 seconds
-[03:42:19]:  Manager - ORPHANED UNKNOWN RESOURCES:
-[03:42:19]: shaders/ui_yuv.ksh - 1
-[03:42:19]: CurlRequestManager::ClientThread::Main() complete
-[03:42:19]: HttpClient2 discarded 1 callbacks.
-[03:42:19]: [Rail] Shutting down Rail
-[03:42:19]: Shutting down
+[01:32:04]: Serializing user: session/1114628FBE949C4A/KU_3RvV9CCb_/0000000071
+[01:32:04]: Serializing user: session/1114628FBE949C4A/KU_uGVY9eiS_/0000000071
+[01:32:04]: Serializing world: session/1114628FBE949C4A/0000000071
+[01:34:57]: SimLuaProxy::QueryServer()
+[01:34:58]: ----------------- HEALTH INFO WARNING ------------------	
+[01:34:58]: Unknown Prefabs: sandblock/sandspike_tall/sandspike_short/sandspike_med	
+[01:35:03]: [SYSMEM]34% - PH:10664m/16322m PG:8291m/17346m VRT:3250m/4095m XM:0m
+[01:35:03]: [PRCMEM]PWS:672m WS:322m PPU:292k PU 263k PNU:163k NU:118k PF:682m PPF:700m
+[01:35:10]: [string "scripts/entityscript.lua"]:1018: assertion failed!
+LUA ERROR stack traceback:
+=[C]:-1 in (global) assert (C) <-1--1>
+scripts/entityscript.lua:1018 in (method) GetPosition (Lua) <1014-1020>
+   self (valid:false) =
+      GUID = 117892
+      Transform = Transform (31DB5420)
+      inlimbo = false
+      actionreplica = table: 25684EC0
+      spikeradius = 0.6
+      actioncomponents = table: 248312B0
+      lower_components_shadow = table: 24831288
+      entity = Entity (2B8BBAD0)
+      AnimState = AnimState (31DB5620)
+      prefab = sandspike_tall
+      animname = tall
+      bloom = true
+      Network = Network (31DB5700)
+      Physics = Physics (31DB5480)
+      SoundEmitter = SoundEmitter (31DB5580)
+      name = MISSING NAME
+      spikesize = tall
+      spawntime = 1136.7333926186
+      replica = table: 248315D0
+      nameoverride = sandspike
+      components = table: 24831328
+      persists = false
+../mods/workshop-2199027653598511264/scripts/prefabs/musha.lua:3060 in (field) fn (Lua) <3060-3060>
+scripts/scheduler.lua:177 in (method) OnTick (Lua) <155-207>
+   self =
+      running = table: 0C760C70
+      waitingfortick = table: 0C7609C8
+      tasks = table: 0C760838
+      waking = table: 25230448
+      attime = table: 0C760BD0
+      hibernating = table: 0C760A40
+   tick = 34393
+   k = PERIODIC 116118: 1.000000
+   v = true
+   already_dead = false
+scripts/scheduler.lua:371 in (global) RunScheduler (Lua) <369-377>
+   tick = 34393
+scripts/update.lua:170 in () ? (Lua) <149-228>
+   dt = 0.033333335071802
+   tick = 34393
+   i = 34393
+
+[01:35:10]: [string "scripts/entityscript.lua"]:1018: assertion failed!
+LUA ERROR stack traceback:
+    =[C]:-1 in (global) assert (C) <-1--1>
+    scripts/entityscript.lua:1018 in (method) GetPosition (Lua) <1014-1020>
+    ../mods/workshop-2199027653598511264/scripts/prefabs/musha.lua:3060 in (field) fn (Lua) <3060-3060>
+    scripts/scheduler.lua:177 in (method) OnTick (Lua) <155-207>
+    scripts/scheduler.lua:371 in (global) RunScheduler (Lua) <369-377>
+    scripts/update.lua:170 in () ? (Lua) <149-228>
+	
+[01:35:12]: [Rail] RailLibrary: not loaded.

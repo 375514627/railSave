@@ -1,0 +1,10 @@
+[00:00:59]: [Join Announcement] White
+[00:02:59]: [Join Announcement] 没错我就是小仙女
+[00:05:59]: [Death Announcement] White 已被击杀，击杀者是 沙子尖刺. 她变成了一个幽灵！
+[00:06:29]: [Vote Announcement] rollback passed
+[00:51:20]: [Skin Announcement] 没错我就是小仙女 body_flannel_purple_grape
+[01:23:31]: [Death Announcement] White 已被击杀，击杀者是 熊獾. 她变成了一个幽灵！
+[01:23:39]: [Resurrect Announcement] White 已被复活，复活人是 Moon
+Yamche.
+[01:33:37]: [Leave Announcement] White
+[01:35:57]: [Leave Announcement] 没错我就是小仙女
