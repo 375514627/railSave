@@ -1,0 +1,4 @@
+[00:01:08]: [Join Announcement] White
+[00:02:13]: [Join Announcement] 没错我就是小仙女
+[00:30:02]: [Leave Announcement] 没错我就是小仙女
+[00:31:05]: [Leave Announcement] White
