@@ -1,8 +1,0 @@
-[00:01:14]: [Join Announcement] White
-[00:01:23]: [Join Announcement] 没错我就是小仙女
-[00:06:31]: [Death Announcement] White 已被击杀，击杀者是 蜻蜓龙. 她变成了一个幽灵！
-[00:06:36]: [Resurrect Announcement] White 已被复活，复活人是 重生护符.
-[00:06:52]: [Death Announcement] White 已被击杀，击杀者是 蜻蜓龙. 她变成了一个幽灵！
-[00:06:59]: [Resurrect Announcement] White 已被复活，复活人是 重生护符.
-[00:31:30]: [Leave Announcement] 没错我就是小仙女
-[00:39:55]: [Leave Announcement] White

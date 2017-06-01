@@ -1,0 +1,27 @@
+[00:00:57]: [Join Announcement] White
+[00:02:20]: [Join Announcement] 没错我就是小仙女
+[00:02:48]: [Join Announcement] 静逅
+[00:04:52]: [Join Announcement] 英雄梦
+[00:53:46]: [Death Announcement] 静逅 已被击杀，击杀者是 尖嘴暗影怪. 他变成了一个幽灵！
+[00:53:57]: [Death Announcement] 英雄梦 已被击杀，击杀者是 冻伤. 她变成了一个幽灵！
+[00:54:59]: [Resurrect Announcement] 英雄梦 已被复活，复活人是 重生护符.
+[00:55:08]: [Resurrect Announcement] 静逅 已被复活，复活人是 重生护符.
+[00:55:24]: [Death Announcement] 静逅 已被击杀，击杀者是 燧石. 他变成了一个幽灵！
+[00:56:01]: [Resurrect Announcement] 静逅 已被复活，复活人是 重生护符.
+[01:07:53]: [Leave Announcement] White
+[01:08:20]: [Join Announcement] White
+[01:10:14]: [Leave Announcement] 静逅
+[01:10:17]: [Leave Announcement] 英雄梦
+[01:11:36]: [Join Announcement] 静逅
+[01:11:45]: [Death Announcement] 静逅 已被击杀，击杀者是 巨喙梦魇. 他变成了一个幽灵！
+[01:13:02]: [Leave Announcement] 没错我就是小仙女
+[01:13:34]: [Join Announcement] 英雄梦
+[01:15:31]: [Join Announcement] 没错我就是小仙女
+[01:15:42]: [Death Announcement] 英雄梦 已被击杀，击杀者是 巨喙梦魇. 她变成了一个幽灵！
+[01:18:42]: [Resurrect Announcement] 静逅 已被复活，复活人是 White.
+[01:20:22]: [Resurrect Announcement] 英雄梦 已被复活，复活人是 White.
+[01:26:13]: [Skin Announcement] 英雄梦 backpack_basic_blue_catcoon
+[01:48:28]: [Leave Announcement] 静逅
+[01:49:05]: [Leave Announcement] 英雄梦
+[01:52:00]: [Leave Announcement] White
+[01:52:08]: [Leave Announcement] 没错我就是小仙女

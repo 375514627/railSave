@@ -1,17 +1,29 @@
-[00:01:42]: [Join Announcement] White
-[00:01:48]: [Join Announcement] 没错我就是小仙女
-[00:02:06]: [Join Announcement] 英雄梦
-[00:03:53]: [Join Announcement] 静逅
-[00:04:26]: [Join Announcement] 九
-[00:22:30]: [Leave Announcement] 英雄梦
-[00:40:08]: [Skin Announcement] 九 feet_formal_highheel_white_pure
-[01:08:27]: [Death Announcement] 九 已被击杀，击杀者是 蜘蛛女王. 她变成了一个幽灵！
-[01:09:32]: [Resurrect Announcement] 九 已被复活，复活人是 复活石.
-[01:13:26]: [Skin Announcement] 静逅 hand_longgloves_yellow_straw
-[01:43:11]: [Leave Announcement] 没错我就是小仙女
-[01:44:15]: [Join Announcement] 没错我就是小仙女
-[01:52:34]: [Leave Announcement] 静逅
-[01:52:48]: [Skin Announcement] 九 body_flannel_green_napier
-[01:55:30]: [Leave Announcement] 九
-[02:42:44]: [Leave Announcement] White
-[02:42:51]: [Leave Announcement] 没错我就是小仙女
+[00:01:09]: [Join Announcement] White
+[00:03:23]: [Join Announcement] 没错我就是小仙女
+[00:04:14]: [Join Announcement] 藍Ｓè
+[00:05:13]: [Leave Announcement] 藍Ｓè
+[00:05:36]: [Join Announcement] 静逅
+[00:07:01]: [Leave Announcement] 静逅
+[00:08:34]: [Join Announcement] 静逅
+[00:09:06]: [Join Announcement] 藍Ｓè
+[00:10:08]: [Leave Announcement] 静逅
+[00:10:24]: [Death Announcement] 藍Ｓè 已被击杀，击杀者是 洞穴蝙蝠. 他变成了一个幽灵！
+[00:11:25]: [Join Announcement] 静逅
+[00:12:31]: [Leave Announcement] 静逅
+[00:13:14]: [Resurrect Announcement] 藍Ｓè 已被复活，复活人是 White.
+[00:13:59]: [Join Announcement] 静逅
+[00:14:51]: [Leave Announcement] 静逅
+[00:18:46]: [Join Announcement] 静逅
+[00:21:17]: [Leave Announcement] 静逅
+[00:23:19]: [Join Announcement] 静逅
+[00:24:16]: [Skin Announcement] 藍Ｓè feet_formal_stiletto_black_scribble
+[00:25:34]: [Leave Announcement] 静逅
+[00:37:53]: [Death Announcement] 藍Ｓè 已被击杀，击杀者是 冰猎犬. 他变成了一个幽灵！
+[00:38:37]: [Death Announcement] White 已被击杀，击杀者是 青蛙. 她变成了一个幽灵！
+[00:38:41]: [Resurrect Announcement] White 已被复活，复活人是 Gandalf
+Yamche.
+[00:40:08]: [Resurrect Announcement] 藍Ｓè 已被复活，复活人是 复活石.
+[00:40:50]: [Death Announcement] 藍Ｓè 已被击杀，击杀者是 青蛙. 他变成了一个幽灵！
+[00:41:32]: [Resurrect Announcement] 藍Ｓè 已被复活，复活人是 重生护符.
+[01:11:21]: [Leave Announcement] 藍Ｓè
+[01:12:53]: [Leave Announcement] White

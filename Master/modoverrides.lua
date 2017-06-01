@@ -99,5 +99,6 @@ return {
   },
   ["workshop-2199027653598513601"]={ configuration_options={  }, enabled=true },
   ["workshop-100010072"]={ configuration_options={  }, enabled=true },
-  ["workshop-100010035"]={ configuration_options={ Charcoal=5, Cutstones=5, Goldnugget=5 }, enabled=true }
+  ["workshop-100010035"]={ configuration_options={ Charcoal=5, Cutstones=5, Goldnugget=5 }, enabled=true },
+  ["workshop-100010053"]={ configuration_options={  }, enabled=true }
 }
